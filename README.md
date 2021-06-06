@@ -19,6 +19,8 @@ __Feature Re-engineering__
 
 __One-Hot Enconding__
 
+__Imputation__
+
 __Outliers Removal__
 
 __Data Standardisation__
